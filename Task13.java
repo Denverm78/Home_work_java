@@ -7,7 +7,7 @@ import java.util.logging.ConsoleHandler;
 // import java.util.logging.FileHandler;
 import java.util.logging.Logger;
 import java.util.logging.SimpleFormatter;
-// import java.util.logging.XMLFormatter;
+//  import java.util.logging.XMLFormatter;
 
 public class Task13 {
     static Logger logger = Logger.getLogger(Task13.class.getName());     
